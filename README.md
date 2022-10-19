@@ -1,2 +1,2 @@
-# html-css-template-2
+# HTML & CSS (Project two)
 second design using html and css only
